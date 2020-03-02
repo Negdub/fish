@@ -5,3 +5,12 @@
 .unimportant {
   color: blue;
 }
+
+.highlight {
+  color: pink;
+}
+
+.fish-type {
+  color: green;
+  font-style: italic;
+}
